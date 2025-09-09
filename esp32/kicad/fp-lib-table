@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TerminalBlock_KF")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/KF7.62_2P.pretty")(options "")(descr ""))
+  (lib (name "ESP32-30pins-DOIT")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/esp32_devkit_v1_doit.pretty")(options "")(descr ""))
+  (lib (name "HUB75")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/HUB75.pretty")(options "")(descr ""))
+)

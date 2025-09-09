@@ -1,0 +1,7 @@
+### Footprint positions - created on 2025-02-16T18:23:41-0300 ###
+### Printed by KiCad version 8.0.7-unknown-202501031821~9d36205ced~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                                 PosX       PosY       Rot  Side
+J1        HUB75_Connector_02x08  HUB75_Socket_2x8_P2.54mm_Vertical   138.7800   -74.9600   90.0000  bottom
+## End
