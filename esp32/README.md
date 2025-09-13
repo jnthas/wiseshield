@@ -22,6 +22,7 @@ WiseShield-32 is the first controller board developed for the [Clockwise project
 
 - `gerbers/Wise-Shield-32-BOM.csv`: Full Bill of Materials with component reference
 - `gerbers/Wise-Shield-32-*.gbr`: Individual Gerber layers for PCB fabrication
+- `gerbers/Wise-Shield-32-iBom.html`: Interactive HTML BOM
 - `kicad/Wise-Shield-32.kicad_sch`: Schematic (KiCad)
 - `kicad/Wise-Shield-32.kicad_pcb`: Board layout (KiCad)
 - `kicad/Wise-Shield-32-brd.png` and `kicad/Wise-Shield-32-brd.svg`: Board visualizations
@@ -44,6 +45,12 @@ WiseShield-32 is the first controller board developed for the [Clockwise project
 ## Assembly
 
 This board can be assembled by hand, with through-hole and standard SMD (where applicable) components. See the BOM and placement files for specific guidance.
+
+Check the Interactive BOM [here](gerbers/Wise-Shield-32-iBom.html)
+
+## Schematic
+
+![Schematic](./Wise-Shield-32-schematic.jpg)
 
 ## License
 
